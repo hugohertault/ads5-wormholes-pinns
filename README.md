@@ -5,7 +5,7 @@
 
 > **Paper**: "Physics-Informed Neural Networks for Scalar-Stabilized Wormholes in AdS₅: A Complete Holographic Analysis"  
 > **Author**: Hugo Hertault  
-> **Status**: Submitted to Physical Review D
+> **Status**: Submitted
 
 ## 🎯 Overview
 
