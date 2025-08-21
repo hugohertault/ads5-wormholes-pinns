@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+runs/
+runs_fd/
+figures/
+*.png
+*.npz
+*.pt
+.pytest_cache/
+dist/
+build/
+.vscode/
+.idea/
+*.ipynb
