@@ -3596,17 +3596,11 @@ python main_article_enhanced.py
 - Colab sync: 2025-08-25 06:52:50
 
 <!-- AUTO-SUMMARY:BEGIN -->
-_Last refresh: 2025-08-25 07:06:33 UTC_
+_Last refresh: 2025-08-25 07:11:46 UTC_
 
-**Latest runs (parsed from `enhanced_runs/`):**
+**Validated runs (success=True, max 30):**
 
-| run | objective | mean_loss | success | throat_ok | DEC frac | Δ+ | timestamp |
-|---|---:|---:|:--:|:--:|:--:|:--:|:--|
-| `run_20250822-015055` | — | — | — | — | — | — | 2025-08-25 06:27:04 UTC |
-| `run_20250822-015401` | — | — | — | — | — | — | 2025-08-25 06:27:04 UTC |
-| `run_20250822-020044` | — | — | — | — | — | — | 2025-08-25 06:27:04 UTC |
-| `run_20250822-020239` | — | — | — | — | — | — | 2025-08-25 06:27:04 UTC |
-| `run_20250822-021507` | — | — | — | — | — | — | 2025-08-25 06:27:04 UTC |
-| `run_20250822-021824` | — | — | — | — | — | — | 2025-08-25 06:27:04 UTC |
-| `run_20250822-022110` | — | — | — | — | — | — | 2025-08-25 06:27:04 UTC |
+| run | objective | mean_loss | throat_ok | DEC frac | Δ+ | timestamp |
+|---|---:|---:|:--:|:--:|:--:|:--|
 <!-- AUTO-SUMMARY:END -->
+
