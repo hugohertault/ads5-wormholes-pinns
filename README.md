@@ -3596,11 +3596,13 @@ python main_article_enhanced.py
 - Colab sync: 2025-08-25 06:52:50
 
 <!-- AUTO-SUMMARY:BEGIN -->
-_Last refresh: 2025-08-25 07:11:46 UTC_
+_Last refresh: 2025-08-25 07:14:14 UTC_
 
 **Validated runs (success=True, max 30):**
 
 | run | objective | mean_loss | throat_ok | DEC frac | Δ+ | timestamp |
-|---|---:|---:|:--:|:--:|:--:|:--|
+|---|---:|---:|:--:|:--:|:--|:--|
+
 <!-- AUTO-SUMMARY:END -->
+
 
