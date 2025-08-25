@@ -3625,3 +3625,14 @@ _Last refresh: 2025-08-25 07:14:14 UTC_
 - `ekg_quick_strict_20250825-073117` — **J=2.780e-02**, **Δ+=3.225e+00**, **DEC=1.000e+00**, **V0*=1.455e-01**  
   Figures: `dec_profile_shifted.png`, `phi.png`, `metric_diag.png` *(si présents)*
 
+<!-- AUTOGEN: START -->
+
+## Latest validated results (today)
+
+_Auto-generated at 2025-08-25 07:59:46 UTC_
+
+- ✅ **EKG (strict, DEC-fixed)** — `ekg_quick_strict_20250825-073117` (J=2.780e-02, Δ⁺≈3.224745, DEC=1.000)
+
+> Artifacts: check each run directory under `enhanced_runs/` (figures & metrics).
+
+<!-- AUTOGEN: END -->
