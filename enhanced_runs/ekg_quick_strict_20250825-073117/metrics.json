@@ -12,11 +12,20 @@
   "delta_plus": 3.224744871391589,
   "m2L2": -2.5,
   "lambdaL2": 0.1,
-  "betaL2": 3.6,
+  "betaL2": 5.0,
   "throat_ok": true,
   "throat_deriv": -4.996003610812956e-15,
   "throat_curv": 0.132899654269334,
   "success": true,
   "notes": "EKG-lite v2b: flare-out strict (R''>eps), bord AdS renforc\u00e9.",
-  "runtime_sec": 36.8974494934082
+  "runtime_sec": 36.8974494934082,
+  "diagnostics": {
+    "dec_fraction": 0.0,
+    "t_null": 7.083928521092781,
+    "dec_fraction_shifted": 1.0,
+    "V0_shift": 0.14583740616838148
+  },
+  "DEC_fraction": 1.0,
+  "Vmin": -0.14545665282147005,
+  "V0_shift": 0.14545665282147005
 }

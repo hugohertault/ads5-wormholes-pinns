@@ -3611,3 +3611,17 @@ _Last refresh: 2025-08-25 07:14:14 UTC_
 - **ekg_quick_strict_20250825-073117** — J=2.780e-02 | Δ⁺=3.225 | throat_ok=True | R″(0)=1.329e-01 | tails=0.000e+00 | Ricci_bdry=4.615e-02 (2025-08-25 07:34:10 UTC)
 
 - **ekg_quick_strict_20250825-073117** — J=2.780e-02 | Δ⁺=3.225 | throat_ok=True | R″(0)=1.329e-01 | tails=0.000e+00 | Ricci_bdry=4.615e-02 (2025-08-25 07:35:00 UTC)
+
+- **ekg_quick_strict_20250825-073117** — J=2.780e-02 | Δ⁺=3.225 | DEC_fixed: frac=1.000, V0*=1.458e-01 | R″(0)=1.329e-01 | tails=0.000e+00 | Ricci_bdry=4.615e-02 (2025-08-25 07:41:38 UTC)
+
+### EKG — Validated (DEC-fixed today)
+
+- `ekg_quick_strict_20250825-073117` — **J=2.780e-02**, **Δ+=3.225e+00**, **DEC=1.000e+00**, **V0*=1.455e-01**  
+  Figures: `dec_profile_shifted.png`, `phi.png`, `metric_diag.png` *(si présents)*
+- `ekg_quick_strict_20250825-073117` — **J=2.780e-02**, **Δ+=3.225e+00**, **DEC=1.000e+00**, **V0*=1.455e-01**  
+  Figures: `dec_profile_shifted.png`, `phi.png`, `metric_diag.png` *(si présents)*
+- `ekg_quick_strict_20250825-073117` — **J=2.780e-02**, **Δ+=3.225e+00**, **DEC=1.000e+00**, **V0*=1.455e-01**  
+  Figures: `dec_profile_shifted.png`, `phi.png`, `metric_diag.png` *(si présents)*
+- `ekg_quick_strict_20250825-073117` — **J=2.780e-02**, **Δ+=3.225e+00**, **DEC=1.000e+00**, **V0*=1.455e-01**  
+  Figures: `dec_profile_shifted.png`, `phi.png`, `metric_diag.png` *(si présents)*
+
