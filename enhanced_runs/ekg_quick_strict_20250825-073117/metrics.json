@@ -1,0 +1,22 @@
+{
+  "tag": "ekg_quick_strict_20250825-073117",
+  "objective": 0.02779722881607255,
+  "terms": {
+    "KG": 8.100334652299362e-05,
+    "Ricci_bdry": 0.04614534299738684,
+    "throat": 2.4960052079256094e-29,
+    "tails": 0.0,
+    "DEC_soft": 0.00025876675710933265,
+    "reg": 3.1429954065229334e-06
+  },
+  "delta_plus": 3.224744871391589,
+  "m2L2": -2.5,
+  "lambdaL2": 0.1,
+  "betaL2": 3.6,
+  "throat_ok": true,
+  "throat_deriv": -4.996003610812956e-15,
+  "throat_curv": 0.132899654269334,
+  "success": true,
+  "notes": "EKG-lite v2b: flare-out strict (R''>eps), bord AdS renforc\u00e9.",
+  "runtime_sec": 36.8974494934082
+}

@@ -1,4 +1,3 @@
-
 [![CI](https://github.com/hugohertault/ads5-wormholes-pinns/actions/workflows/ci.yml/badge.svg)](https://github.com/hugohertault/ads5-wormholes-pinns/actions/workflows/ci.yml)
 
 # AdS5 Wormholes PINN — Enhanced (Refonte rapide)
@@ -3606,3 +3605,9 @@ _Last refresh: 2025-08-25 07:14:14 UTC_
 <!-- AUTO-SUMMARY:END -->
 
 
+
+## ✅ Validated (today)
+
+- **ekg_quick_strict_20250825-073117** — J=2.780e-02 | Δ⁺=3.225 | throat_ok=True | R″(0)=1.329e-01 | tails=0.000e+00 | Ricci_bdry=4.615e-02 (2025-08-25 07:34:10 UTC)
+
+- **ekg_quick_strict_20250825-073117** — J=2.780e-02 | Δ⁺=3.225 | throat_ok=True | R″(0)=1.329e-01 | tails=0.000e+00 | Ricci_bdry=4.615e-02 (2025-08-25 07:35:00 UTC)

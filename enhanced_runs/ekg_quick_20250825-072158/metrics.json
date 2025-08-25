@@ -1,0 +1,20 @@
+{
+  "tag": "ekg_quick_20250825-072158",
+  "objective": 0.004803791829481592,
+  "terms": {
+    "KG": 0.0001617418136266443,
+    "Ricci_bdry": 0.04614556736768503,
+    "throat": 7.31594821259991e-11,
+    "tails": 0.0,
+    "DEC_soft": 0.00024780813484608056,
+    "reg": 2.712392442354706e-06
+  },
+  "delta_plus": 3.224744871391589,
+  "m2L2": -2.5,
+  "lambdaL2": 0.1,
+  "betaL2": 3.6,
+  "throat_ok": false,
+  "success": false,
+  "notes": "EKG-lite surrogate: KG courbe exacte; courbure scalaire p\u00e9nalis\u00e9e au bord; gorge & queues AdS impos\u00e9es; DEC proxy doux.",
+  "runtime_sec": 39.17829656600952
+}

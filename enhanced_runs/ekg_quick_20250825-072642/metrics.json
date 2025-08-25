@@ -1,0 +1,22 @@
+{
+  "tag": "ekg_quick_20250825-072642",
+  "objective": 0.01403343386621038,
+  "terms": {
+    "KG": 0.00016275110192474543,
+    "Ricci_bdry": 0.04614534299738684,
+    "throat": 4.9399533891503024e-11,
+    "tails": 0.0,
+    "DEC_soft": 0.0002489166546376628,
+    "reg": 2.1881502062837544e-06
+  },
+  "delta_plus": 3.224744871391589,
+  "m2L2": -2.5,
+  "lambdaL2": 0.1,
+  "betaL2": 3.6,
+  "throat_ok": true,
+  "throat_deriv": -6.661338147750608e-15,
+  "throat_curv": -7.028480197845266e-06,
+  "success": true,
+  "notes": "EKG-lite v2: odd grid, robust throat test; KG courbe; R\u2192-20/L^2 au bord; DEC proxy.",
+  "runtime_sec": 40.03015971183777
+}
